@@ -1,5 +1,4 @@
-import { GalleryItem, ProductItem, ServiceItem, TestimonialItem } from './types'; // Assuming types are defined or using inline interfaces as per original file structure. 
-
+// Interfaces defined here to ensure zero-dependency errors in this file replacement
 // Re-defining interfaces here to ensure zero-dependency errors in this file replacement
 export interface GalleryItem {
     title: string;
